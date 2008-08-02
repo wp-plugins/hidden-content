@@ -2,7 +2,7 @@
 Contributors: Nikolay aka 'cmepthuk'
 Donate link: http://www.infine.ru/
 Tags: content, excerpt, comment, hide, hidden
-Requires at least: 2.0.2
+Requires at least: 2.3
 Tested up to: 2.6
 Stable tag: 4.3
 
